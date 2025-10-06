@@ -1,0 +1,18 @@
+<img src="https://helpdesk.bitrix24.com/upload/medialibrary/f23/ipls1w5zvohvqcwoc8irw66n0m6zeo7g/text_editor.jpg" alt="Configure data formats and types for CSV file import"/>
+
+Dit CSV (Comma Separated Values) bevat  verkoopdata met de volgende structuur: 
+- Datum; - Regio;  -Verkoper (Voornaam); -Verkoper (Achternaam); -Product - Aantal -Stukprijs
+Vaak gebruikt bij export vanuit Excel 
+
+<img src="https://53.fs1.hubspotusercontent-na1.net/hubfs/53/what-is-xml-file-1-20240530-5845838.webp" alt="XML Files: What They Are &amp; How to Open Them"/
+
+Dit XML bestand bevat studenten informatie met de  volgende structuur:
+- Voornaam; - Achternaam; - Diploma; - Cijfers. 
+
+<img src="https://help.rapid7.com/insightidr/content/resources/images/json/nested-json.png"/>
+
+Dit JSON bestand bevat muziekinformatie met de volgende structuur:
+- Volume; - Huidige nummer (band naam, songtitel, bandleden)
+Volgende track.
+
+Markdown bestand:
