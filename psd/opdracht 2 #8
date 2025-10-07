@@ -1,0 +1,12 @@
+PSD 1- uitbesteden melk buurvrouw
+
+Ik neem mijn kopje koffie (de input), loop naar de buurvrouw toe en geef aan een scheutje melk in de koffie te willen, shaken not stirred (argument).
+Ik geef het kopje aan haar en vraag; "Wil jij er wat melk in doen?" (aanroep)
+De buurvrouw neemt het kopje aan en begint met uitvoering van de taak (verwerking)
+Na het uitvoeren, geeft de buurvrouw het kopje terug - met melk erin (return)
+
+PSD 2 - buurvrouw schenkt melk in
+De buurvrouw registreert het verzoek: koffie, scheutje melk, shaken not stirred (argumenten)
+De buurvrouw accepteert de taak door het kopje aan te nemen (aanroep)
+De buurvrouw opent de koelkast, pakt de melk, schenkt de melk in het kopje, en zet de melk weer terug (verwerking)
+Tenslotte geeft de buurvrouw het kopje terug aan mij met de melk erin (return)
