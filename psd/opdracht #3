@@ -1,0 +1,5 @@
+Ik bekijk het aanbod achter het glas van de vending machine en besluit een snickers te willen.
+Ik geef mijn keuze door: productcode A4, betaling via pin (argumenten)
+Ik druk op de knop of het scherm om de keuze te bevestigen (aanroep)
+De vending machine controleert de betaling, laat de spiraal draaien en de Snickers valt in het vak (verwerking)
+Ik open de klep en pak de Snickers eruit (return)
